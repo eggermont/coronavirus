@@ -1,0 +1,14 @@
+pandas==1.0.1
+jupyter==1.0.0
+jupyter-client==5.3.3
+jupyter-console==6.0.0
+jupyter-core==4.5.0
+jupyterlab==1.1.4
+jupyterlab-server==1.0.6
+seaborn==0.9.0
+matplotlib==3.1.1
+urllib3==1.25.8
+numpy==1.18.1
+plotly==4.5.3
+glob2==0.7
+tqdm==4.36.1
